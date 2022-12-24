@@ -1,0 +1,8 @@
+/* Gallery */
+.gallery img{
+	margin:5px;
+	border:3px solid rgb(116, 23, 23);
+}
+a.photo:hover img{
+	border:3px solid #ffc4d1;
+}
